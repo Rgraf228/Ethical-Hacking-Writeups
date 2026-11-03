@@ -1,9 +1,7 @@
 # Ethical-Hacking-Writeups
 
 Write-ups from my home lab, documenting enumeration, exploitation, and
-remediation steps against intentionally vulnerable machines. Built
-alongside my CompTIA Network+ and Security+ certifications, as part of
-my transition into cybersecurity.
+remediation steps against intentionally vulnerable machines. 
 
 ## Contents
 
