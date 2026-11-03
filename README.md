@@ -6,6 +6,7 @@ remediation steps against intentionally vulnerable machines.
 ## Contents
 
 - [Metasploitable 2 – Bind Shell & Weak Credentials](metasploitable2/bindshell-weak-creds.md)
+- [Metasploitable 2 – Sudo Privilege Escalation](metasploitable2/sudo-privesc.md)
 
 ## Lab environment
 
